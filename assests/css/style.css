@@ -1,0 +1,20 @@
+.name {
+    background-color: skyblue;
+    padding: 30px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+h1 {
+    background-color: teal;
+}
+p {
+    background-color: lightcoral
+}
+.navi {
+    float: right;
+}
+header {
+    background-color: yellowgreen;
+}
